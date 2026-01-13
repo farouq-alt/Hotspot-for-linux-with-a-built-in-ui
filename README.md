@@ -15,8 +15,8 @@ A lightweight system tray applet to manage Wi-Fi hotspot sharing. Works on Pop!_
 ## Quick Start
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/hotspot-applet-forpoposlinux.git
-cd hotspot-applet-forpoposlinux
+git clone https://github.com/farouq-alt/Hotspot-for-linux-with-a-built-in-ui.git
+cd Hotspot-for-linux-with-a-built-in-ui
 python3 hotspot-applet.py
 ```
 
