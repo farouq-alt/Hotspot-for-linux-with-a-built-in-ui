@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Hotspot Applet
+Comment=System tray applet for managing Wi-Fi hotspot
+Exec=/usr/local/bin/hotspot-applet
+Icon=network-wireless-hotspot-symbolic
+Terminal=false
+Type=Application
+Categories=Network;Settings;
+Keywords=hotspot;wifi;network;share;tethering;
+StartupNotify=false
+X-GNOME-Autostart-enabled=true
